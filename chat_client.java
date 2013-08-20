@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 public class chat_client {
-	/***************************************************************************
+	/*****************************************************************************
 	 * Author: Harendra Singh
 	 * Program Flow: 
 	 * 		waitForServer ---> startThreads (incoming,outgoing)
